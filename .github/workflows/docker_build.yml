@@ -1,4 +1,4 @@
-name: Cront workflow
+name: docker build example
 
 # on:
 #   schedule:

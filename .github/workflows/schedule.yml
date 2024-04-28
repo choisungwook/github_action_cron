@@ -1,4 +1,4 @@
-name: Cront workflow
+name: Cron example
 
 # on:
 #   schedule:
